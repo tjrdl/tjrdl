@@ -3,7 +3,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=누추한%20곳에%20어쩐일로%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=방문해%20주셔서%20감사합니다)
   
 </div>
 
