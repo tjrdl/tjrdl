@@ -49,7 +49,7 @@
 
 ## 💬 Contact
 
-- Email: [your.email@example.com]
-- Blog: [yourblog.com] (선택)
+- Email: tjrdlchlrh00@naver.com
+
 
 </div>
